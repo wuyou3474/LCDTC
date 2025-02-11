@@ -8,10 +8,12 @@ You Wu, Hengzhou Ye<sup>\*</sup>, Yaqing Yang, Zhaodong Wang, Shuiwang Li<br> (\
 ## :triangular_flag_on_post: Benchmarking
 ### :small_blue_diamond: Dataset Statistics
 <img src="https://github.com/wuyou3474/LCDTC/blob/main/assets/fig_statics.png" width="110%">
+
 **Figure:**  (**a**) the number of each liquid content in transparent container  in the train set and test set on the LCDTC and (**b**) shows the average number of each liquid content per image in the train set and test set on the LCDTC.
 
 ### :small_blue_diamond: Qualitative Evaluation 
 <img src="https://github.com/wuyou3474/LCDTC/blob/main/assets/fig_qat.png" width="110%">
+
 **Figure:** Qualitative evaluation on 20 samples from LCDTC.
 
 ### :small_blue_diamond: Downloading Links
