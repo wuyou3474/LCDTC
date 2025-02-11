@@ -1,4 +1,4 @@
-# <p align="center">LCDTC</p>
+# LCDTC
 [**Liquid Content  Detection In Transparent Containers: A Benchmark**](https://doi.org/10.3390/s23156656)<br>
 You Wu, Hengzhou Ye<sup>\*</sup>, Yaqing Yang, Zhaodong Wang, Shuiwang Li<br> (\*: Corresponding author)<br>
 
