@@ -1,6 +1,6 @@
 # <p align="center">LCDTC: Liquid Content  Detection In Transparent Containers: A Benchmark</p>
 [**Liquid Content  Detection In Transparent Containers: A Benchmark**](https://doi.org/10.3390/s23156656)<br>
-You Wu, Hengzhou Ye *, Yaqing Yang, Zhaodong Wang, Shuiwang Li<sup>\*</sup><br> (\*: Corresponding author)<br>
+You Wu, Hengzhou Ye<sup>\*</sup>, Yaqing Yang, Zhaodong Wang, Shuiwang Li<br> (\*: Corresponding author)<br>
 
 ## :camera: Samples
 <img src="https://github.com/wuyou3474/LCDTC/blob/main/assets/fig_anno.png" width="110%">
@@ -8,12 +8,10 @@ You Wu, Hengzhou Ye *, Yaqing Yang, Zhaodong Wang, Shuiwang Li<sup>\*</sup><br> 
 ## :triangular_flag_on_post: Benchmarking
 ### :small_blue_diamond: Dataset Statistics
 <img src="https://github.com/wuyou3474/LCDTC/blob/main/assets/fig_statics.png" width="110%">
-
-**Figure:**  (\textbf{b}) the number of each liquid content in transparent container  in the train set and test set on the LCDTC and (\textbf{b}) shows the average number of each liquid content per image in the train set and test set on the LCDTC..
+**Figure:**  (**a**) the number of each liquid content in transparent container  in the train set and test set on the LCDTC and (**b**) shows the average number of each liquid content per image in the train set and test set on the LCDTC.
 
 ### :small_blue_diamond: Qualitative Evaluation 
 <img src="https://github.com/wuyou3474/LCDTC/blob/main/assets/fig_qat.png" width="110%">
-
 **Figure:** Qualitative evaluation on 20 samples from LCDTC.
 
 ### :small_blue_diamond: Downloading Links
