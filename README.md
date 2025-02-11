@@ -16,6 +16,24 @@ You Wu, Hengzhou Ye<sup>\*</sup>, Yaqing Yang, Zhaodong Wang, Shuiwang Li<br> (\
 
 **Figure:** Qualitative evaluation on 20 samples from LCDTC.
 
+## :globe_with_meridians: Downloading LCDTC
+### :small_blue_diamond: Organization
+
+Each file has the following organization:
+```
+DTTO
+├── annotations
+│     ├── instances_train2017.json
+│     └── instances_val2017.json
+|   ...
+└── images
+│     ├── train2017
+│     └── val2017
+|   ...
+|   ...
+...
+```
+
 ### :small_blue_diamond: Downloading Links
 Below are the downloading links of LCDTC.
 
