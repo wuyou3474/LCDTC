@@ -21,7 +21,7 @@ You Wu, Hengzhou Ye<sup>\*</sup>, Yaqing Yang, Zhaodong Wang, Shuiwang Li<br> (\
 
 Each file has the following organization:
 ```
-DTTO
+LCDTC
 ├── annotations
 │     ├── instances_train2017.json
 │     └── instances_val2017.json
