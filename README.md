@@ -29,6 +29,7 @@ LCDTC
 └── images
 │     ├── train2017
 │     └── val2017
+```
 
 ### :small_blue_diamond: Downloading Links
 Below are the downloading links of LCDTC.
